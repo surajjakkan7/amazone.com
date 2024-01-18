@@ -179,9 +179,12 @@ span{
 
 .box-img{
     height: 300px;
-    background-size: contain;
+    
+    background-position: center;
     margin-top: 12px;
     margin-bottom: 12px;
+    background-size:cover ;
+    
    
 
 }
